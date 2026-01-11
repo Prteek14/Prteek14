@@ -22,11 +22,14 @@ I enjoy continuous learning, problem-solving, and building real-world projects.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend & Database (Learning)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -39,10 +42,13 @@ I enjoy continuous learning, problem-solving, and building real-world projects.
 ## 🚀 Projects
 
 - **Portfolio Website** – Personal portfolio showcasing skills & projects  
-- **E-commerce Website (Frontend)** – UI for an online shopping platform  
+- **Metal Rate Calculator** – Gold, Silver, Platinum Rate Calculator with real time Rate
+- **React Mini Apps** – A collection of Weather, Age Calculator & TO-DO applications
+- **Memories App** – JavaScript-based project Image gallery 
 - **JavaScript Calculator** – Functional calculator using JS  
 - **BG Color Picker** – Interactive color picker app  
-- **Memories App** – JavaScript-based project  
+- **E-commerce Website (Frontend)** – UI for an online shopping platform  
+
 
 👉 Check repositories for live demos & code 👆
 
@@ -50,9 +56,9 @@ I enjoy continuous learning, problem-solving, and building real-world projects.
 
 ## 📊 GitHub Stats
 
-![Prteek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prteek14&show_icons=true&theme=default)
+![Prteek's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prteek14&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prteek14&layout=compact)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prteek14&layout=compact)
 
 ---
 
