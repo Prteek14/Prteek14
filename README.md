@@ -1,83 +1,183 @@
-# 👋 Hi, I'm Prteek Gupta
+<!-- ======================== BANNER ======================== -->
 
-### Frontend Developer | MERN Stack Learner | Aspiring Full-Stack Software Developer
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,50:dd2476,100:ff512f&height=250&section=header&text=Prteek%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-📍 Bareilly, U.P., India | 💻 Building modern & responsive web applications
+<h1 align="center">Hi 👋, I'm Prteek Gupta</h1>
+<h3 align="center">Frontend Developer | MERN Stack Learner</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ff512f&size=24&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;React+Developer;Focused+on+Clean+Architecture;Always+Learning+%26+Improving" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
+</p>
+
+<br>
 
 ## 👨‍💻 About Me
 
-I am a **Frontend Developer** with a strong foundation in **HTML, CSS, and JavaScript**, focused on building clean, user-friendly interfaces.  
-Currently learning the **MERN stack (MongoDB, Express.js, React, Node.js)** to transition into a **Full-Stack Software Developer** role.
+<img align="right" src="https://pixabay.com/get/g100dd2510eb0e34ad9a9406e3142024395fde96bf01a2f47eed50afea2801ca13fa5a957490f6349e758cf215e0150de2a702d461eec6990d1ea3d167fb396d9_1920.jpg" width="300"/>
 
-I enjoy continuous learning, problem-solving, and building real-world projects.
+Frontend Developer specializing in **responsive, interactive, and user-focused web applications**.
 
----
+I build **scalable, high-performance interfaces** using **JavaScript and React**, with a strong focus on clean architecture, performance optimization, and maintainable UI systems.
 
-## 🛠️ Tech Stack
+<br>
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 💡 Core Strengths
 
-### Backend & Database (Learning)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ⚛️ Advanced React Development (Redux, React Query)  
+- 🧠 Strong Problem-Solving (Data Structures & Algorithms)  
+- 🏗 Practical Understanding of System Design (HLD)  
+- 🧪 Testing & Modern Development Workflows  
+- 🔄 Git-based Collaboration & Version Control  
+- 🤖 Leveraging AI & Generative AI tools for productivity  
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+<br clear="right"/>
 
----
+Having completed advanced React training, I continuously refine my skills to stay aligned with evolving industry standards and best practices.
 
-## 🚀 Projects
+> **Driven to build. Focused on impact. Always learning.**
 
-- **Portfolio Website** – Personal portfolio showcasing skills & projects  
-- **Metal Rate Calculator** – Gold, Silver, Platinum Rate Calculator with real time Rate
-- **React Mini Apps** – A collection of Weather, Age Calculator & TO-DO applications
-- **Memories App** – JavaScript-based project Image gallery 
-- **JavaScript Calculator** – Functional calculator using JS  
-- **BG Color Picker** – Interactive color picker app  
-- **E-commerce Website (Frontend)** – UI for an online shopping platform  
+<br>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
+</p>
 
-👉 Check repositories for live demos & code 👆
+<br>
 
----
+## 🛠 Tech Stack
 
-## 📊 GitHub Stats
+### 💻 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap" />
+</p>
 
-![Prteek's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prteek14&show_icons=true)
+<br>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prteek14&layout=compact)
+### ⚙️ Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
----
+<br>
 
-## 🌱 Currently Learning
+### 🧪 Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
+</p>
 
-- Advanced React  
-- Node.js & Express.js  
-- MongoDB & full-stack architecture  
+<br>
 
----
+### 📌 Additional Expertise
+
+- Component-Based Architecture  
+- State Management (Redux Toolkit, React Query)  
+- REST API Integration  
+- Performance Optimization  
+- Clean Code & Scalable UI Systems  
+- Agile & Git-based Collaboration  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
+</p>
+
+<br>
+
+## 🚀 Featured Projects
+
+### 🟡 Metal Rate Calculator
+A real-time Gold, Silver & Platinum calculator with caching and dynamic pricing.
+
+🔗 **Live Demo:** https://your-live-link.com  
+📂 **GitHub Repo:** https://github.com/Prteek14/your-repo  
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
+</p>
+
+<br>
+
+### 🌤 Weather App
+Responsive weather forecasting app using API integration.
+
+🔗 **Live Demo:** https://your-live-link.com  
+📂 **GitHub Repo:** https://github.com/Prteek14/your-repo  
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
+</p>
+
+<br>
+
+### 🛒 E-Commerce Website (Frontend)
+Modern and responsive shopping UI built with React.
+
+🔗 **Live Demo:** https://your-live-link.com  
+📂 **GitHub Repo:** https://github.com/Prteek14/your-repo  
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
+</p>
+
+<br>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prteek14&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prteek14&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prteek14&layout=compact&theme=radical" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
+</p>
+
+<br>
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: https://prteek.netlify.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/prteek-gupta-94367428a/  
-- 🐙 GitHub: https://github.com/Prteek14  
+<p align="center">
+  <a href="https://github.com/Prteek14">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/prteek-gupta-94367428a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
----
+<br>
 
-## 🎯 Career Goal
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
+</p>
 
-To become a **Full-Stack Software Developer** and contribute to impactful, scalable software solutions.
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prteek14&label=Profile%20Views&color=dd2476&style=flat" />
+</p>
