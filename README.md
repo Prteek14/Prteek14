@@ -268,7 +268,7 @@ Includes start/stop controls for interactive behavior.
     <img src="https://skillicons.dev/icons?i=linkedin" width="65" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:prteekgupta36@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="65" />
   </a>
 </p>
