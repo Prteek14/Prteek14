@@ -63,16 +63,23 @@ Having completed advanced React training, I continuously refine my skills to sta
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,jest" />
 </p>
 
 <br>
 
 ### 🧪 Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,netlify" />
 </p>
 
+<br>
+
+### 🗂 Productivity & Design
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="48" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" />
+</p>
 <br>
 
 ### 📌 Additional Expertise
