@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://pixabay.com/get/g100dd2510eb0e34ad9a9406e3142024395fde96bf01a2f47eed50afea2801ca13fa5a957490f6349e758cf215e0150de2a702d461eec6990d1ea3d167fb396d9_1920.jpg" width="300"/>
+<img align="right" src="https://pixabay.com/get/g100dd2510eb0e34ad9a9406e3142024395fde96bf01a2f47eed50afea2801ca13fa5a957490f6349e758cf215e0150de2a702d461eec6990d1ea3d167fb396d9_1920.jpg" width="250"/>
 
 Frontend Developer specializing in **responsive, interactive, and user-focused web applications**.
 
@@ -120,7 +120,7 @@ Includes API-based base rates, smart fluctuation logic, caching, and responsive 
 
 </td>
 <td width="35%">
-<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+<img src="https://raw.githubusercontent.com/Prteek14/Assets/main/Website_SS.png" width="100%" />
 </td>
 </tr>
 
@@ -148,7 +148,7 @@ Responsive UI with .env support for secure API keys.
 
 </td>
 <td>
-<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+<img src="https://raw.githubusercontent.com/Prteek14/Assets/main/React-mini-site.jpg" width="100%" />
 </td>
 </tr>
 
@@ -172,7 +172,7 @@ Showcases skills, projects, and contact details with modern UI.
 
 </td>
 <td>
-<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+<img src="https://raw.githubusercontent.com/Prteek14/Assets/main/portfolio.jpg" width="100%" />
 </td>
 </tr>
 
@@ -181,7 +181,7 @@ Showcases skills, projects, and contact details with modern UI.
 
 ### 🖼 Memories
 
-JavaScript-based image management app:
+JavaScript-based image management app: <br>
 • Upload images  
 • Instant preview  
 • Delete functionality  
@@ -201,7 +201,7 @@ Clean UI and smooth user interaction.
 
 </td>
 <td>
-<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+<img src="https://raw.githubusercontent.com/Prteek14/Assets/main/website_img.jpg" width="100%" />
 </td>
 </tr>
 
@@ -225,7 +225,7 @@ Includes start/stop controls for interactive behavior.
 
 </td>
 <td>
-<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+<img src="https://raw.githubusercontent.com/Prteek14/Assets/main/bg-changer.png" width="100%" />
 </td>
 </tr>
 </table>
@@ -240,17 +240,13 @@ Includes start/stop controls for interactive behavior.
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prteek14&show_icons=true&theme=radical" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prteek14&theme=radical" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prteek14&layout=compact&theme=radical" />
-</p>
+
 
 <br>
 
@@ -260,17 +256,20 @@ Includes start/stop controls for interactive behavior.
 
 <br>
 
+
 ## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/Prteek14">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" width="65" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/prteek-gupta-94367428a">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="65" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:your-email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" width="65" />
   </a>
 </p>
 
@@ -284,4 +283,8 @@ Includes start/stop controls for interactive behavior.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prteek14&label=Profile%20Views&color=dd2476&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,50:dd2476,100:ff512f&height=120&section=footer" />
 </p>
