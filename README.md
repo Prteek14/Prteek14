@@ -76,9 +76,9 @@ Having completed advanced React training, I continuously refine my skills to sta
 <br>
 
 ### 🗂 Productivity & Design
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="48" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" />
+<p align="left">
+  <img src="https://img.shields.io/badge/MS_Word-2B579A?style=for-the-badge&logo=microsoftword"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva"/>
 </p>
 <br>
 
@@ -99,39 +99,136 @@ Having completed advanced React training, I continuously refine my skills to sta
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="65%" >
+
 ### 🟡 Metal Rate Calculator
-A real-time Gold, Silver & Platinum calculator with caching and dynamic pricing.
 
-🔗 **Live Demo:** https://your-live-link.com  
-📂 **GitHub Repo:** https://github.com/Prteek14/your-repo  
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
-</p>
+Modern React application providing realistic, city-wise metal price estimations for Gold, Silver, and Platinum.  
+Includes API-based base rates, smart fluctuation logic, caching, and responsive UI.
 
 <br>
 
-### 🌤 Weather App
-Responsive weather forecasting app using API integration.
+<a href="https://gspratecalc.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
-🔗 **Live Demo:** https://your-live-link.com  
-📂 **GitHub Repo:** https://github.com/Prteek14/your-repo  
+<a href="https://github.com/Prteek14/Jewel-Calculator-" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="35%">
+<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ⚛️ React Mini Apps
+
+Collection of mini React projects: <br>
+• To-Do App  
+• Age Calculator  
+• Weather App (OpenWeatherMap API)  
+
+Responsive UI with .env support for secure API keys.
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff512f,100:dd2476&height=2&section=header" />
-</p>
+<a href="https://react-mini-site.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prteek14/React-mini-apps" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td>
+<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌐 My Portfolio
+
+Fully responsive personal portfolio built with HTML, CSS & JavaScript.  
+Showcases skills, projects, and contact details with modern UI.
 
 <br>
 
-### 🛒 E-Commerce Website (Frontend)
-Modern and responsive shopping UI built with React.
+<a href="https://prteek.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
 
-🔗 **Live Demo:** https://your-live-link.com  
-📂 **GitHub Repo:** https://github.com/Prteek14/your-repo  
+<a href="https://github.com/Prteek14/Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td>
+<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🖼 Memories
+
+JavaScript-based image management app:
+• Upload images  
+• Instant preview  
+• Delete functionality  
+• Open in new tab view  
+
+Clean UI and smooth user interaction.
+
+<br>
+
+<a href="https://memories-prteek.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prteek14/memories" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td>
+<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🎨 Background Color Picker
+
+Automatically changes background color every 2 seconds and displays HEX code.  
+Includes start/stop controls for interactive behavior.
+
+<br>
+
+<a href="https://color-picker-prteek.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prteek14/BG-COLOR-PICKER-" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td>
+<img src="YOUR_IMAGE_LINK_HERE" width="100%" />
+</td>
+</tr>
+</table>
 
 <br>
 
