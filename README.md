@@ -100,6 +100,7 @@ Having completed advanced React training, I continuously refine my skills to sta
 ## 🚀 Featured Projects
 
 <table>
+
 <tr>
 <td width="65%" >
 
@@ -123,6 +124,7 @@ Includes API-based base rates, smart fluctuation logic, caching, and responsive 
 <img src="https://raw.githubusercontent.com/Prteek14/Assets/main/Website_SS.png" width="100%" />
 </td>
 </tr>
+
 
 <tr>
 <td>
@@ -152,6 +154,7 @@ Responsive UI with .env support for secure API keys.
 </td>
 </tr>
 
+
 <tr>
 <td>
 
@@ -175,6 +178,7 @@ Showcases skills, projects, and contact details with modern UI.
 <img src="https://raw.githubusercontent.com/Prteek14/Assets/main/portfolio.jpg" width="100%" />
 </td>
 </tr>
+
 
 <tr>
 <td>
@@ -205,6 +209,7 @@ Clean UI and smooth user interaction.
 </td>
 </tr>
 
+
 <tr>
 <td>
 
@@ -228,6 +233,31 @@ Includes start/stop controls for interactive behavior.
 <img src="https://raw.githubusercontent.com/Prteek14/Assets/main/bg-changer.png" width="100%" />
 </td>
 </tr>
+
+
+<tr>
+<td>
+
+### 🔐 MERN Auth APP
+
+A backend authentication application built using Node.js, Express.js, and MongoDB that provides secure user signup and login functionality. The project demonstrates REST API development, password validation, database integration, and frontend–backend communication with proper CORS configuration.
+
+<br>
+
+<a href="https://auth-app-frontend-d0e5.onrender.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prteek14/Auth-app" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td>
+<img src="https://raw.githubusercontent.com/Prteek14/Assets/main/Auth_app.png" width="100%" />
+</td>
+</tr>
+
 </table>
 
 <br>
