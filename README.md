@@ -21,7 +21,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://pixabay.com/get/g100dd2510eb0e34ad9a9406e3142024395fde96bf01a2f47eed50afea2801ca13fa5a957490f6349e758cf215e0150de2a702d461eec6990d1ea3d167fb396d9_1920.jpg" width="250"/>
+<img align="right" src="https://raw.githubusercontent.com/Prteek14/Assets/main/Dev_pic.jpg" width="250"/>
 
 Frontend Developer specializing in **responsive, interactive, and user-focused web applications**.
 
