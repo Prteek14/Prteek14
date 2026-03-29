@@ -102,6 +102,37 @@ Having completed advanced React training, I continuously refine my skills to sta
 <table>
 
 <tr>
+  <td width="65%" >
+
+### New Portfolio 
+
+This product is a portfolio website created to present a frontend developer's identity, skills, and projects in one place. It includes a hero introduction, an about section, a skills showcase, a work section for project highlights, and a contact area for direct communication and social links.
+
+## Features
+
+- Responsive personal portfolio website
+- Interactive project showcase
+- Reusable component-based architecture
+- Section-based navigation
+
+<br>
+
+<a href="https://prteek36.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prteek14/New-Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="35%">
+<img src="https://raw.githubusercontent.com/Prteek14/Assets/main/image.avif" width="100%" />
+</td>
+</tr>
+
+<tr>
+
 <td width="65%" >
 
 ### 🟡 Metal Rate Calculator
