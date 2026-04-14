@@ -100,6 +100,46 @@ Having completed advanced React training, I continuously refine my skills to sta
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+  <td width="65%" >
+
+### CPMS - Campus Placement Management System
+
+A MERN-based Campus Placement Management System with JWT authentication, role-based access (Admin/Student), job lifecycle management, and real-time application tracking.
+
+## Features
+
+⚙️ System Features
+- ⚡ RESTful API Architecture
+- 🔐 JWT-based Authorization
+- 🌐 Role-Based Access Control (Admin / Student)
+- 📦 Modular Backend Structure (MVC Pattern)
+- ☁️ Cloudinary File Storage
+- 🔄 Real-Time Status Updates (UI Sync)
+- 📱 Responsive UI (Tailwind CSS)
+
+🚀 Performance & UX
+- ⚡ Fast loading with optimized React components
+- 🔔 Toast notifications for user feedback
+- 🎯 Clean and intuitive UI/UX
+- 📊 Interactive dashboards
+
+<br>
+
+<a href="https://cpms-six.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prteek14/CPMS--Campus-Placement-Management-System" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="35%">
+<img src="https://raw.githubusercontent.com/Prteek14/Assets/main/signup.jpg" width="100%" height="200%" />
+</td>
+</tr>
+
 
 <tr>
   <td width="65%" >
