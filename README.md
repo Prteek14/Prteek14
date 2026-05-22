@@ -122,7 +122,7 @@ A simple Jira-style task board built with React, Vite, and Tailwind CSS. The app
 
 <br>
 
-<a href="" target="_blank">
+<a href="https://jira-board-tau.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
