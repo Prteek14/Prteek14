@@ -100,7 +100,42 @@ Having completed advanced React training, I continuously refine my skills to sta
 ## 🚀 Featured Projects
 
 <table>
+
 <tr>
+  <td width="65%" >
+
+### Jira Board - Task Manager
+
+A simple Jira-style task board built with React, Vite, and Tailwind CSS. The app allows users to create, view, edit, delete, reorder, filter, and undo task operations using browser localStorage.
+## Features
+
+* ✅ Add new tasks with title, description, assignee, priority, and status.
+* 📋 Display tasks in To Do, In Progress, and Done columns.
+* ✏️ Edit existing tasks.
+* 🗑️ Delete tasks.
+* 🔼🔽 Reorder tasks within the same column using Up and Down buttons.
+* 🎯 Filter tasks by priority.
+* 👤 Filter tasks by assignee based on assignee names stored in localStorage.
+* 🧹 Clear filters to restore the normal board view.
+* ↩️ Undo the latest edit, delete, or reorder operation.
+* 📱 Responsive layout built using Tailwind CSS.
+
+<br>
+
+<a href="" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prteek14/Jira-Board" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub_Repo-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+<td width="35%">
+<img src="https://raw.githubusercontent.com/Prteek14/Assets/main/JiraBoard.png" width="100%" height="200%" />
+</td>
+</tr>
+  <tr>
   <td width="65%" >
 
 ### CPMS - Campus Placement Management System
