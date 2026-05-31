@@ -31,12 +31,14 @@ I build **scalable, high-performance interfaces** using **JavaScript and React**
 
 ### 💡 Core Strengths
 
-- ⚛️ Advanced React Development (Redux, React Query)  
-- 🧠 Strong Problem-Solving (Data Structures & Algorithms)  
-- 🏗 Practical Understanding of System Design (HLD)  
-- 🧪 Testing & Modern Development Workflows  
-- 🔄 Git-based Collaboration & Version Control  
-- 🤖 Leveraging AI & Generative AI tools for productivity  
+- ⚛️ React Development — Components, hooks, routing, UI building
+- 🎨 Tailwind CSS — Custom UI, responsive design, animations
+- 🔐 JWT Authentication — Secure login flows, token handling
+- 🗄️ MongoDB + Express + Node.js — REST APIs, backend logic
+- ☁️ Cloudinary Integration — File/image upload & storage
+- 🚀 Deployment — Vercel (frontend), Render (backend)
+- 🔄 Git & GitHub — Version control, team collaboration
+- 📄 Project Documentation — README, ER diagrams, test cases, PPTs
 
 <br clear="right"/>
 
