@@ -194,7 +194,7 @@ This product is a portfolio website created to present a frontend developer's id
 
 <br>
 
-<a href="https://prteek36.vercel.app" target="_blank">
+<a href="https://prteek.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Live_Demo-ff512f?style=for-the-badge&logo=netlify&logoColor=white"/>
 </a>
 
